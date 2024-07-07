@@ -58,7 +58,7 @@ The command reads a local XML file, processes its contents, and inserts the data
 1. **Run the import command:**
 
     ```sh
-    php artisan import:xml /feed/feed.xml
+    php artisan import:xml ./feed/feed.xml
     ```
 
 2. **Check the database:**
