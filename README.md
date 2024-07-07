@@ -14,8 +14,8 @@ The command reads a local XML file, processes its contents, and inserts the data
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/sudan94/xml_to_db_php.git
+    cd xml_to_db_php
     ```
 
 2. **Install dependencies:**
